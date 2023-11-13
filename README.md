@@ -7,7 +7,7 @@ Projects are conducted under the guidance of AI Vietnam courses
 - [x] 04. Image Compression Denoise SVD Problem
 - [x] 05. Text retrieval
 - [ ] 06. Image Project Depth Information Reconstruction
-- [ ] 07. Tabular data project
+- [x] 07. Tabular data project
 - [ ] 08.1. Big Data 01
 - [ ] 08.2. Big Data 02
 - [x] 09. Image retrieval
